@@ -1,0 +1,4 @@
+GOALS
+
+-Animacion Adaptada.
+-Movimiento en cuadricula adaptado.
