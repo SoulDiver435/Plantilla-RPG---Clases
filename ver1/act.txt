@@ -1,0 +1,3 @@
+GOALS
+
+-Movimiento en cuadricula adaptado.
