@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practica - Batallas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="contenedor-juego">
+    <canvas class="canvas-juego" width="208" height="144">
+      
+    </canvas>
+  </div>
+  
+  <div class="contTodosControles">
+  <div class="contControlesJuego">
+    <div class="controlArriba controlClase"></div>
+    <div class="controlIzq controlClase"></div>
+    <div class="controlDer controlClase"></div>
+    <div class="controlAbajo controlClase"></div>
+  </div>
+  <div class="contBotonCirc">
+    <div class="botonCirc controlClase"></div>
+  </div>
+  </div>
+
+  <script src="utils.js"></script>
+  <script src="Sprite.js"></script>
+  <script src="DirectionInput.js"></script>
+  <script src="GameObject.js"></script> <!-- Asegúrate de que se cargue antes -->
+  <script src="Player.js"></script>
+  <script src="OverworldMap.js"></script>
+  <script src="Overworld.js"></script>
+  <script src="init.js"></script>
+
+</body>
+</html>

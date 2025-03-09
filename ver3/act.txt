@@ -1,0 +1,5 @@
+GOALS
+
+-Colisiones Adaptadas.
+-Animacion Adaptada.
+-Movimiento en cuadricula adaptado.
