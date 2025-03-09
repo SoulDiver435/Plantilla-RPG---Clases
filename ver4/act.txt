@@ -1,0 +1,6 @@
+GOALS
+
+-Transicion entre mapas implementada.
+-Colisiones Adaptadas.
+-Animacion Adaptada.
+-Movimiento en cuadricula adaptado.
